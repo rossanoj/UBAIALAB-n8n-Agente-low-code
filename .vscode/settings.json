@@ -5,12 +5,8 @@
     "editor.tabSize": 4,
     "editor.insertSpaces": false,
     "editor.detectIndentation": false,
-    "editor.formatOnSave": false
-}
-	"editor.tabSize": 4,
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false,
-	"editor.formatOnSave": false,
+    "editor.formatOnSave": false,
+
 
     // Encoding por defecto del workspace (UTF-8 para archivos modernos)
     "files.encoding": "utf8",

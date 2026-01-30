@@ -7,3 +7,16 @@
     "editor.detectIndentation": false,
     "editor.formatOnSave": false
 }
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": false,
+
+    // Encoding por defecto del workspace (UTF-8 para archivos modernos)
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": false,
+
+    // Fin de línea
+    "files.eol": "\r\n",
+    "files.trimTrailingWhitespace": false
+}

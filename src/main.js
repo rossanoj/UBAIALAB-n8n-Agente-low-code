@@ -1,7 +1,7 @@
 const path = require('path');
 
 /**
- * Main entry point for the application
+ * Punto de entrada principal de la aplicación.
  */
 
 // Import required modules
@@ -26,10 +26,10 @@ async function main() {
 	}
 }
 
-// Execute main function
+// Ejecutar la función principal
 if (require.main === module) {
 	main();
 }
 
-// Export for testing or module usage
+// Exportar para pruebas o uso como módulo
 module.exports = { main };

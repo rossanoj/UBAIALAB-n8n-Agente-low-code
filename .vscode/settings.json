@@ -2,6 +2,11 @@
     // ============================================================
     // EDITOR - Configuración general del editor
     // ============================================================
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": false
+}
 	"editor.tabSize": 4,
 	"editor.insertSpaces": false,
 	"editor.detectIndentation": false,
